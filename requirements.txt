@@ -10,3 +10,4 @@ pandas
 scipy
 beautifulsoup4
 emoji
+wordcloud
